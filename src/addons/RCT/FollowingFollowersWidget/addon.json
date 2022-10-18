@@ -1,0 +1,16 @@
+{
+    "legacy_addon_id": "",
+    "title": "[RCT] Following and Followers Widget",
+    "description": "",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "Recruty",
+    "dev_url": "",
+    "faq_url": "",
+    "support_url": "https://xenforo.info/members/recruty.44388/",
+    "extra_urls": {
+        "XFI":    "https://xenforo.info/members/recruty.44388/"
+    },
+    "require": [],
+    "icon": "fas fa-user-plus"
+}

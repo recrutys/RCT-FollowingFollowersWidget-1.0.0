@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget_definitions>
+  <widget_definition definition_id="rct_followers_widget" definition_class="RCT\FollowingFollowersWidget\Widget\Followers"/>
+  <widget_definition definition_id="rct_following_widget" definition_class="RCT\FollowingFollowersWidget\Widget\Following"/>
+</widget_definitions>

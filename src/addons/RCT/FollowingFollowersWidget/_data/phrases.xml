@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="rct_ffw_limit" version_id="1000070" version_string="1.0.0"><![CDATA[Limit]]></phrase>
+  <phrase title="rct_ffw_total_x" version_id="1000070" version_string="1.0.0"><![CDATA[Total: {count}]]></phrase>
+  <phrase title="widget_def.rct_followers_widget" version_id="1000070" version_string="1.0.0"><![CDATA[Followers]]></phrase>
+  <phrase title="widget_def.rct_following_widget" version_id="1000070" version_string="1.0.0"><![CDATA[Following]]></phrase>
+  <phrase title="widget_def_desc.rct_followers_widget" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_def_desc.rct_following_widget" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_pos.rct_member_view_sidenav" version_id="1000070" version_string="1.0.0"><![CDATA[[RCT] Member view: Sidenav]]></phrase>
+  <phrase title="widget_pos_desc.rct_member_view_sidenav" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+</phrases>
